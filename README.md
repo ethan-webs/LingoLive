@@ -86,11 +86,6 @@ LingoLive/
 - **Tutoring Services**: Modify for online tutoring or coaching services
 - **Community Platforms**: Use as foundation for connection-based websites
 
-### Commercial Use:
-- **Startup Landing Pages**: Quick deployment for MVP testing
-- **Service Websites**: Template for service-based businesses
-- **Educational Platforms**: Foundation for learning management systems
-
 ## 🎨 Design System
 
 ### Color Palette:
@@ -144,8 +139,6 @@ For technical support or customization requests, please contact:
 **License for RiverTheme**
 
 RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
-
----
 
 **© 2025 LingoLive. Developed by RiverTheme.**
 
